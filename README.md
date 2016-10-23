@@ -48,11 +48,23 @@ First there is `git status` it let's you check to see if any changes you made ar
 Then there is `git add` this let's you make any changes you can make to the current repo you are in.  
 NOTE: You have to `cd` into that repo first to make that change it will not work if you do it in `workspace`.  
 `git commit -m` will have you to create a message to the computer letting it know of what kind of changs you make to the repo.  
-NOTE: You will have to be specific on what you did to the changes so the computer can understand what happened. For examble: `git commit -m "change title"`doing this will let the computer know of what change you made.
+NOTE: You will have to be specific on what you did to the changes so the computer can understand what happened. For examble: `git commit -m "change title"`doing this will let the computer know of what change you made.  
 Lastly `git push` can put all of the changes you made on your repo to `github`then you can see what changes were made.
 
 ---
 ## Collaboration
-There may be some times where you might work with others on a big project on `GitHub` so do things like this on `github` you will need to learn how to **fork** and `clone`.
+There may be some times where you might work with others on a big project on `GitHub` so do things like this on `github` you will need to learn how to **fork** and `clone`. When **forking** you are making changes to the repo on your cloud9 account to make the repo better together with the owner.
 
 How to **Fork**
+ 
+ * In your account you look at your profile pick and right beside it you should see fork on there click on it.
+ * After you did that click on "clone or download".
+ * Click on the little clipboard.
+ * Then go to your c9.io (cloud9) account and into your workspace.
+ * In workspace open your terminal (look in repo setup to find out how).
+ * Then type `git clone` and paste the URL you copied. 
+ * By doing that you have cloned that work to cloud9.
+ * Then you must save adn do these things `git add` , `git commit -m` , and `git push` don't forget your message.
+ * Then submit a pull request on your `Github` account. 
+ * Create a pull request on your account make sure its on "Branch: Master" that way you can submit your changes to the owner of that repo. So then the owner will decide if they like.
+ One tip `git pull` is a command where any changes you made to your repo
