@@ -1,14 +1,6 @@
 # GitHub Tutorial
 Today we all will be learning how to use `GitHub`,it's a service web-site that you can use to research any information that can provide you with any assistance. This website is also about creating your own repositories for people to view. Not only `GitHub` you will be learning today but you will also be able to learn `Git` and how it works.
 
-* GitHub setup account steps
-
-  * you will need a `GitHub` account which you can recive on the website.
-[GitHub.com](https://github.com/)
-  * Go to sign up 
-  * Follow the instructions of what it says to create your account
-  * Lastly you made your own account and welcome to `GitHub`
-
 by [RalphA6189@hstat.org](RalphA6189@hstat.org)
 
 ---
@@ -19,12 +11,19 @@ by [RalphA6189@hstat.org](RalphA6189@hstat.org)
 ---
 ## Initial Setup
 
+* GitHub setup account steps
 
+  * you will need a `GitHub` account which you can recive on the website.
+[GitHub.com](https://github.com/)
+  * Go to sign up 
+  * Follow the instructions of what it says to create your account
+  * Lastly you made your own account and welcome to `GitHub`
+
+SSH in `Github` is used 
 
 ---
-## Repository Setup
-To make a Repository you need to do this list of steps
-
+## **Repository Setup**
+To make a Repository you need to do this list of steps.
 1. Sign in to your c9.io account if u don't have one here is a link to get started and click "sign up". Follow the instructions once you get in. [cloud9](https://c9.io/)
 2. Create a work space in the account to get started 
 3. To make a repo (Repository) you neeed to go to "window" and click "New terminal".
@@ -45,6 +44,15 @@ There some things you will have to understand in order to use `GitHub` really we
 
 Here are some commands to begin with
 
-`git status` is a command you type to check if everything you done so far is in order.
+First there is `git status` it let's you check to see if any changes you made are in order.
+Then there is `git add` this let's you make any changes you can make to the current repo you are in.  
+NOTE: You have to `cd` into that repo first to make that change it will not work if you do it in `workspace`.  
+`git commit -m` will have you to create a message to the computer letting it know of what kind of changs you make to the repo.  
+NOTE: You will have to be specific on what you did to the changes so the computer can understand what happened. For examble: `git commit -m "change title"`doing this will let the computer know of what change you made.
+Lastly `git push` can put all of the changes you made on your repo to `github`then you can see what changes were made.
 
-`git add` let's you make any change u want make to the repo
+---
+## Collaboration
+There may be some times where you might work with others on a big project on `GitHub` so do things like this on `github` you will need to learn how to **fork** and `clone`.
+
+How to **Fork**
