@@ -1,5 +1,5 @@
 # GitHub Tutorial
-Today we all will be learning how to use `GitHub`,it's a service web-site that you can use to research any information that can provide you with any assistance. This website is also about creating your own repositories for people to view. Not only `GitHub` you will be learning today but you will also be able to learn `Git` and how it works.
+Today we all will be learning how to use `GitHub`, it's a service web-site that you can use to research any information that can provide you with any assistance. This website is also about creating your own repositories for people to view. Not only `GitHub` you will be learning today but you will also be able to learn `Git` and how it works.
 
 by [RalphA6189@hstat.org](RalphA6189@hstat.org)
 
@@ -71,7 +71,7 @@ First there is `git status` it let's you check to see if any changes you made ar
 Then there is `git add` this let's you make any changes you can make to the current repo you are in.  
 NOTE: You have to `cd` into that repo first to make that change it will not work if you do it in `workspace`.  
 `git commit -m` will have you to create a message to the computer letting it know of what kind of changs you make to the repo.  
-NOTE: You will have to be specific on what you did to the changes so the computer can understand what happened. For examble: `git commit -m "change title"`doing this will let the computer know of what change you made.  
+NOTE: You will have to be specific on what you did to the changes so the computer can understand what happened. For examble: `git commit -m ` and then your message. This will let the computer know of what change you made.  
 Lastly `git push` can put all of the changes you made on your repo to `github`then you can see what changes were made.
 
 ---
@@ -90,4 +90,4 @@ How to **Fork**
  * Then you must save adn do these things `git add` , `git commit -m` , and `git push` don't forget your message.
  * Then submit a pull request on your `Github` account. 
  * Create a pull request on your account make sure its on "Branch: Master" that way you can submit your changes to the owner of that repo. So then the owner will decide if they like.
- One tip `git pull` is a command where any changes you made to your repo
+ One tip `git pull` is a command where you are pulling the changes someone has made to the repo.
