@@ -5,8 +5,19 @@ by [RalphA6189@hstat.org](RalphA6189@hstat.org)
 
 ---
 ## Git vs. GitHub
+`Git` and `GitHub` are one of the many things you will have to learn in case if anybody ever ask you what id the difference between `Git` and `GitHub`.
+* `Git` 
+  * `Git` does not require `Github`
+  * When edit files it saves along the way 
+  * Add files, commit them
 
+* `GitHub`
+  * `Github` store code in the cloud 
+  * Requires `Git`
+  * Visually see what u change
+  * Easily collaborate files 
 
+These are one of the many things you will have to learn about `Git` and `Github`.
 
 ---
 ## Initial Setup
@@ -19,13 +30,13 @@ by [RalphA6189@hstat.org](RalphA6189@hstat.org)
   * Follow the instructions of what it says to create your account
   * Lastly you made your own account and welcome to `GitHub`
 
-SSH in `Github` is used 
+SSH in `Github` is used when it comes to making a repo on cloud9 you want to make sure you always click on SSH when creating a repo. GitHub will ask you that. Then you will be asked to copy and paste certain things to your cloud9 code to make sure `GitHub` is connected to your cloud9 repo.
 
 ---
 ## **Repository Setup**
 To make a Repository you need to do this list of steps.
-1. Sign in to your c9.io account if u don't have one here is a link to get started and click "sign up". Follow the instructions once you get in. [cloud9](https://c9.io/)
-2. Create a work space in the account to get started 
+1. Sign in to your c9.io account if u don't have one here is a link to get started and click "sign up". Follow the instructions once you get in. [cloud9](https://c9.io/) 
+2. Create a work space in the account to get started.
 3. To make a repo (Repository) you neeed to go to "window" and click "New terminal".
 4. You should see `workspace`in the terminal stay on that workspace for now. Then as you are in that terminal type `mkdir` and then a title name you want to create.
 5. Next you want to click `cd` and the title name of your file and it will take you to that file.
