@@ -35,8 +35,10 @@ SSH in `Github` is used when it comes to making a repo on cloud9 you want to mak
 ---
 ## **Repository Setup**
 To make a Repository you need to do this list of steps.  
+
 1. Sign in to your c9.io account if u don't have one here is a link to get started and click "sign up". Follow the instructions once you get in. [cloud9](https://c9.io/)   
-2. Create a work space in the account to get started. 
+
+2. Create a work space in the account to get started.
 
 3. To make a repo (Repository) you neeed to go to "window" and click "New terminal".
 
