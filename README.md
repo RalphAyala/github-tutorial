@@ -5,16 +5,16 @@ by [RalphA6189@hstat.org](RalphA6189@hstat.org)
 
 ---
 ## Git vs. GitHub
-`Git` and `GitHub` are one of the many things you will have to learn in case if anybody ever ask you what id the difference between `Git` and `GitHub`.
+`Git` and `GitHub` are one of the many things you will have to learn in case  anybody ever asked you what is the difference between `Git` and `GitHub`.
 * `Git` 
   * `Git` does not require `Github`
-  * When edit files it saves along the way 
+  * When you edit the files it saves along the way 
   * Add files, commit them
 
 * `GitHub`
-  * `Github` store code in the cloud 
+  * `Github` stores code in the cloud 
   * Requires `Git`
-  * Visually see what u change
+  * Visually see what you change
   * Easily collaborate files 
 
 These are one of the many things you will have to learn about `Git` and `Github`.
