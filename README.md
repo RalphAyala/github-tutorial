@@ -1,5 +1,5 @@
 # GitHub Tutorial
-Today we all will be learning how to use `GitHub`, it's a service web-site that you can use to research any information that can provide you with any assistance. This website is also about creating your own repositories for people to view. Not only `GitHub` you will be learning today but you will also be able to learn `Git` and how it works.
+Today we will all be learning how to use `GitHub`. It is a service web-site that you can use to research any information that can provide you with any assistance. This website is also about creating your own repositories for people to view. Not only will you be learning `GitHub` today, but you will also be able to learn `Git` and how it works.
 
 by [RalphA6189@hstat.org](RalphA6189@hstat.org)
 
