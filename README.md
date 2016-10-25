@@ -24,7 +24,7 @@ These are one of the many things you will have to learn about `Git` and `Github`
 
 * GitHub setup account steps
 
-  * you will need a `GitHub` account which you can recive on the website.
+  * you will need a `GitHub` account which you can recieve on the website.
 [GitHub.com](https://github.com/)
   * Go to sign up 
   * Follow the instructions of what it says to create your account
@@ -36,7 +36,7 @@ SSH in `Github` is used when it comes to making a repo on cloud9 you want to mak
 ## **Repository Setup**
 To make a Repository you need to do this list of steps.  
 
-1. Sign in to your c9.io account if u don't have one here is a link to get started and click "sign up". Follow the instructions once you get in. [cloud9](https://c9.io/)   
+1. Sign into your c9.io account, if you don't have one here is a link to get started and click "sign up". Follow the instructions once you get in. [cloud9](https://c9.io/)   
 
 2. Create a work space in the account to get started.
 
@@ -48,7 +48,7 @@ To make a Repository you need to do this list of steps.
 
 6. You then want to type `git init` and it will turn your file into a repo. You should be able to notice it should say `(Master)` you will then know it willl work.
 
-7. Once you have done all of this you next want add any information to that file. Type `touch` and a title name for that by doing this you will create a folder in that file.
+7. Once you have done all of this. The next thing want to do is add any information onto that file. Type `touch` and a title name for that. By doing this you will create a folder in that file.
 
 8. Open that folder in your file, clicking on it would be to easy so to open it type `c9` and your title of the one you made with `touch`. It will then take you to that folder.
 
